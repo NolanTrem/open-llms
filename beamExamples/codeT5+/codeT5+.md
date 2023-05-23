@@ -4,7 +4,7 @@
 on serverless GPUs. If you haven't already, be sure to [create an account
 and follow installation instructions here](https://docs.beam.cloud/getting-started/quickstart).
 
-## Deploying RedPajama-INCITE-Instruct-3B-v1
+## Deploying codeT5+-6B
 This example is called through a webhook. Webhooks are used for deploying
 functions that run asynchronously on Beam. Here, the webhook takes a prompt
 as one of its input fields. An example prompt and the real response from the
