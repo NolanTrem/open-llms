@@ -10,7 +10,8 @@ functions that run asynchronously on Beam. Here, the webhook takes a prompt
 as one of its input fields. An example prompt and the real response from the
 model are given below.
 
-Example prompt: Once upon a time
+Example prompt: 
+> Once upon a time
 
 Example response: 
->>> Once upon a time, the world was a place of peace and prosperity. But the people of the land were not content with peace. They wanted to be free. The people were divided into two groups. The first group was the
+> Once upon a time, the world was a place of peace and prosperity. But the people of the land were not content with peace. They wanted to be free. The people were divided into two groups. The first group was the
