@@ -28,4 +28,4 @@ app.Trigger.Webhook(
 app.Output.File(path="dlite_output.txt", name="response")
 
 # Shared volume to store cached model
-app.Mount.PersistentVolume(path="./my_models", name="my-models")
+app.Mount.PersistentVolume(path="./dlite-v2-1_5b", name="dlite-v2-1_5b")
