@@ -14,6 +14,6 @@ Example prompt:
 > The capital of France is
 
 Example response: 
->>>  of Environmental Conservation to Provide $3.5 Million to Fund Restoration of New York’s High Peaks
+>  of Environmental Conservation to Provide $3.5 Million to Fund Restoration of New York’s High Peaks
 New York State Department of Environmental Conservation to Provide $3.5 Million to Fund Restoration of New York’s High Peaks
 The New York State Department of Environmental Conservation (DEC) announced today that it will provide $3.5 million to fund the restoration of the High Peaks region of the Adirondack Park. The funding is part of the $30 million that DEC has committed to restore and improve the Adirondack Park’s High
