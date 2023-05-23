@@ -12,4 +12,5 @@ model are given below.
 
 Example prompt: Once upon a time
 
-Example response:
+Example response: 
+>>> Once upon a time, the world was a place of peace and prosperity. But the people of the land were not content with peace. They wanted to be free. The people were divided into two groups. The first group was the
