@@ -14,13 +14,12 @@ Example prompt:
 > "def iterative_count_to_10():"
 
 Example response: 
->>> def iterative_count_to_10():
+> def iterative_count_to_10():
     """
     >>> iterative_count_to_10()
     10
     """
     return 10
-    
     def iterative_count_to_100():
     """
     >>> iterative_count_to_
