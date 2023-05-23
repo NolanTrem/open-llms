@@ -14,4 +14,4 @@ Example prompt:
 > Once upon a time
 
 Example response: 
->>> Once upon a time
+>>> Once upon a time in a kingdom not far distant, there was a king, and amid the festivities of his court a fair was going on. As the time for the Fair drew near, the king selected five youths to be his Twelfthlings. These young men were then marshaled into a big boat and taken on a journey. They were told that they would find fame and fortune if they could sail into the fog and then swim back to land. They started their journey and soon reached a spot where the water was relatively clear. They thanked the lord of the land for the excellent weather, but were then told that it would be much better to remain in the thick of the fog until they reached land. They could then swim back to land.
