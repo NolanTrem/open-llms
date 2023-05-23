@@ -8,7 +8,7 @@ MIN_TRANSFORMERS_VERSION = '4.25.1'
 assert transformers.__version__ >= MIN_TRANSFORMERS_VERSION, f'Please upgrade transformers to version {MIN_TRANSFORMERS_VERSION} or higher.'
 
 # Cached model
-cache_path = "redpajama-incite-instruct"
+cache_path = "./redpajama-incite-instruct"
 
 # Huggingface model
 model_id = "togethercomputer/RedPajama-INCITE-Instruct-3B-v1"
