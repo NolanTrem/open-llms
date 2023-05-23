@@ -14,7 +14,7 @@ Example prompt:
 > "def print_hello_world():"
 
 Example response: 
->>> "def print_hello_world():
+> "def print_hello_world():
         print("Hello World")
         print_hello_world()
     def print_hello_world_again(name):
